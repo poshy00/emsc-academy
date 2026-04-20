@@ -1,5 +1,13 @@
 # 🎓 EMSC Academy — Plataforma E-Learning
 
+[![GitHub issues](https://img.shields.io/github/issues/poshy00/emsc-academy)](https://github.com/poshy00/emsc-academy/issues)
+[![GitHub stars](https://img.shields.io/github/stars/poshy00/emsc-academy)](https://github.com/poshy00/emsc-academy/stargazers)
+[![GitHub license](https://img.shields.io/github/license/poshy00/emsc-academy)](https://github.com/poshy00/emsc-academy)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com)
+[![Railway](https://img.shields.io/badge/Railway-141BED?logo=railway&logoColor=white)](https://railway.app)
+
 Plataforma de formación técnica especializada en agua, energía y automatización industrial.
 
 **Stack:** React.js + Node.js/Express + Supabase + Stripe  
